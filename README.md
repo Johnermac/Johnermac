@@ -1,16 +1,24 @@
-### Hi there 👋
+# I'm Johnermac 
 
-<!--
-**Johnermac/Johnermac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![menu-bkp](https://github.com/Johnermac/Johnermac/assets/115858996/f8e4b684-379b-4b2d-a671-6ebaca75adf4)
 
-Here are some ideas to get you started:
+## About Me 🕵️‍♂️
+Cybersecurity Professional, specializing in Red Teaming and Pentesting with a focus on Active Directory security. Currently delving into the world of Malware development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me 🤝
+- LinkedIn: [João Gabriel](https://www.linkedin.com/in/joao-gabriel-6520aa215/)
+
+## Projects 🚀
+- [Github](https://johnermac.github.io)
+- [Gitbook](https://johnermac.gitbook.io)
+ 
+## 🏆 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Johnermac&theme=radical)
+
+## 🚀 Languages
+![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)
+![Powershell](https://img.shields.io/badge/-Powershell-blue?style=flat-square&logo=powershell&logoColor=white)
+![c](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
+
+
+#### Feel free to add me on Linkedin and Lets learn together!
