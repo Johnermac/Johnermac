@@ -6,7 +6,7 @@
 Cybersecurity Professional, specializing in Red Teaming and Pentesting with a focus on Active Directory security. Currently delving into the world of Malware development.
 
 ## Connect with Me 🤝
-- LinkedIn: [João Gabriel](https://www.linkedin.com/in/joao-gabriel-6520aa215/)
+<a href="https://www.linkedin.com/in/joao-gabriel-6520aa215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Projects 🚀
 - [Github](https://johnermac.github.io)
