@@ -20,5 +20,9 @@ Cybersecurity Professional, specializing in Red Teaming and Pentesting with a fo
 ![Powershell](https://img.shields.io/badge/-Powershell-blue?style=flat-square&logo=powershell&logoColor=white)
 ![c](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
 
+## CVEs
+    CVE-2024-2479
+    CVE-2024-2480
+
 
 #### Feel free to add me on Linkedin and Lets learn together!
