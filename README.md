@@ -16,13 +16,22 @@ Cybersecurity Professional, specializing in Red Teaming and Pentesting with a fo
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Johnermac&theme=radical)
 
 ## 🚀 Languages
-![Ruby](https://img.shields.io/badge/-Ruby-red?style=flat-square&logo=ruby&logoColor=white)
-![Powershell](https://img.shields.io/badge/-Powershell-blue?style=flat-square&logo=powershell&logoColor=white)
-![c](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c&logoColor=white)
+| Ruby | PowerShell | C |
+|----------|----------|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
+
 
 ## 🛡️ CVEs
-    CVE-2024-2479
-    CVE-2024-2480
+
+| CVE ID                                   | Vulnerability Type                        | Status    |
+|------------------------------------------|-------------------------------------------|-----------|
+| [CVE-2024-2479](https://www.cve.org/CVERecord?id=CVE-2024-2479) | Stored Cross-site Scripting               | Approved  |
+| [CVE-2024-2480](https://www.cve.org/CVERecord?id=CVE-2024-2480) | Error-Based SQL Injection                             | Approved  |
+| [CVE-2024-29637](https://www.cve.org/CVERecord?id=CVE-2024-29637) | Reflected Cross-site Scripting            | Reserved  |
+| [CVE-2024-29638](https://www.cve.org/CVERecord?id=CVE-2024-29638) | Identification and Authentication Failures | Reserved  |
+
+
+
 
 
 #### Feel free to add me on Linkedin and Lets learn together!
