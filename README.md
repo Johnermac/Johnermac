@@ -3,7 +3,7 @@
 ![menu-bkp](https://github.com/Johnermac/Johnermac/assets/115858996/f8e4b684-379b-4b2d-a671-6ebaca75adf4)
 
 ## About Me 🕵️‍♂️
-Cybersecurity Professional, specializing in Red Teaming and Pentesting with a focus on Active Directory security. Currently delving into the world of Malware development.
+Application Security professional with a background in Red Teaming and Pentesting. Focused on securing web apps, APIs, and CI/CD pipelines. Exploring secure code, threat modeling, and DevSecOps.
 
 ## Connect with Me 🤝
 <a href="https://www.linkedin.com/in/joao-gabriel-6520aa215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -15,10 +15,12 @@ Cybersecurity Professional, specializing in Red Teaming and Pentesting with a fo
 ## 🏆 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Johnermac&theme=radical)
 
-## 🚀 Languages
-| Ruby | PowerShell | C |
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby"  alt="Ruby" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |
+## 🚀 Tech Stack
+
+| Ruby | Go | C | PowerShell | Docker | Kubernetes |
+|------|----|---|------------|--------|------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="55" height="55"/> |
+
 
 ## Certifications
 
