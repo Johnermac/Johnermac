@@ -3,7 +3,7 @@
 ![menu-bkp](https://github.com/Johnermac/Johnermac/assets/115858996/f8e4b684-379b-4b2d-a671-6ebaca75adf4)
 
 ## About Me 🕵️‍♂️
-Application Security professional with a background in Red Teaming and Pentesting. Focused on securing web apps, APIs, and CI/CD pipelines. Exploring secure code, threat modeling, and DevSecOps.
+Application Security professional with a background in Red Teaming and Pentesting. Focused on securing web apps, APIs, CI/CD pipelines, and cloud-native/container environments. Exploring secure code, threat modeling, and DevSecOps.
 
 ## Connect with Me 🤝
 <a href="https://www.linkedin.com/in/joao-gabriel-6520aa215/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
